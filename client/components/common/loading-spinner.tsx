@@ -4,7 +4,7 @@ interface LoadingSpinnerProps extends React.HTMLAttributes<HTMLDivElement> {
 
 const spinnerSizes = {
   sm: "h-4 w-4",
-  md: "h-8 w-8",
+  md: "h-8 w-9",
   lg: "h-12 w-12",
 };
 
