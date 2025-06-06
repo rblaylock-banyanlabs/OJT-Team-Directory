@@ -1,4 +1,3 @@
-
 export function isValidEmail(email: string): boolean {
   const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/
   return emailRegex.test(email)
@@ -17,7 +16,6 @@ export function isValidUrl(url: string): boolean {
     return false
   }
 }
-
 
 export function validateRequired(value: string): boolean {
   return value.trim().length > 0
