@@ -2,7 +2,7 @@ export const APP_CONFIG = {
     name: "Team Directory",
     description: "A modern, interactive team directory application",
     version: "1.0.0",
-    author: "Team Directory Team",
+    author: "Team Rachael",
     repository: "https://github.com/rblaylock-banyanlabs/OJT-Team-Directory",
   
     // Contact information
