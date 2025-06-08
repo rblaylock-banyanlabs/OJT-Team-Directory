@@ -79,7 +79,6 @@ export const INITIAL_TEAM_MEMBERS: TeamMember[] = [
     portfolio: "https://emilyrodriguez.design",
     linkedin: "https://linkedin.com/in/emilyrodriguez",
     github: "https://github.com/emilydesign",
-    twitter: "https://twitter.com/emilydesigns",
     skills: ["Figma", "Adobe Creative Suite", "User Research", "Prototyping", "Design Systems", "Accessibility"],
     projects: [
       {
@@ -112,7 +111,6 @@ export const INITIAL_TEAM_MEMBERS: TeamMember[] = [
     portfolio: "https://davidkim.pm",
     linkedin: "https://linkedin.com/in/davidkim",
     github: "https://github.com/davidkim",
-    twitter: "https://twitter.com/davidpm",
     skills: ["Product Strategy", "User Research", "Data Analysis", "Agile", "Roadmapping", "Stakeholder Management"],
     projects: [
       {
@@ -145,7 +143,6 @@ export const INITIAL_TEAM_MEMBERS: TeamMember[] = [
     portfolio: "https://lisathompson.design",
     linkedin: "https://linkedin.com/in/lisathompson",
     github: "https://github.com/lisadesign",
-    twitter: "https://twitter.com/lisadesigns",
     skills: ["UI/UX Design", "Accessibility", "Design Systems", "Branding", "Illustration", "Motion Design"],
     projects: [
       {
@@ -178,7 +175,6 @@ export const INITIAL_TEAM_MEMBERS: TeamMember[] = [
     portfolio: "https://alexmartinez.dev",
     linkedin: "https://linkedin.com/in/alexmartinez",
     github: "https://github.com/alexmartinez",
-    twitter: "https://twitter.com/alexcodes",
     skills: ["React", "Vue.js", "WebGL", "Performance Optimization", "PWAs", "Web Components"],
     projects: [
       {
