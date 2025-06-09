@@ -6,7 +6,6 @@ import { PageLayout } from "@/components/layout/page-layout"
 import { Heading } from "@/components/typography/heading"
 import { Text } from "@/components/typography/text"
 import { GradientText } from "@/components/typography/gradient-text"
-import { ThemeProvider as NextThemesProvider } from 'next-themes';
 
 export function About() {
   return (
