@@ -755,7 +755,7 @@ export function TeamDirectory() {
               Get In Touch
             </Heading>
             <Text variant="muted" className="text-slate-600 dark:text-slate-400">
-              Ready to join our amazing team or have questions? We'd love to hear from you!
+              Ready to join our amazing team or have questions? We&apos;d love to hear from you!
             </Text>
           </CardHeader>
           <CardContent>
