@@ -1,9 +1,9 @@
 import { TeamMemberDetail } from "@/components/pages/team-member-detail"
 
-type PageProps = {
-  params: { id: string }
-}
-
-export default async function MemberDetailPage({ params }: PageProps) {
+export default async function MemberDetailPage({
+  params,
+}: {
+  params: { id: string };
+}) {
   return <TeamMemberDetail memberId={params.id} />
 }
