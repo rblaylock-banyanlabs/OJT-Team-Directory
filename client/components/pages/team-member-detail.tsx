@@ -140,7 +140,7 @@ export function TeamMemberDetail({ memberId }: TeamMemberDetailProps) {
                 </CardTitle>
               </CardHeader>
               <CardContent>
-                <Text className="text-white/90 italic leading-relaxed">"{member.vision}"</Text>
+                <Text className="text-white/90 italic leading-relaxed">&ldquo;{member.vision}&rdquo;</Text>
               </CardContent>
             </Card>
 

@@ -74,7 +74,7 @@ export function TeamMemberCard({ member }: TeamMemberCardProps) {
               </Badge>
             </CardHeader>
             <CardContent className="pt-0 flex items-center justify-center h-32">
-              <p className="text-sm text-white/90 text-center leading-relaxed italic">"{member.vision}"</p>
+              <p className="text-sm text-white/90 text-center leading-relaxed italic">&ldquo;{member.vision}&rdquo;</p>
             </CardContent>
           </Card>
         </div>

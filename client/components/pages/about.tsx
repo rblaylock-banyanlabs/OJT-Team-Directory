@@ -87,7 +87,7 @@ export function About() {
             </CardHeader>
             <CardContent>
               <Text variant="muted" className="text-slate-600 dark:text-slate-400">
-                We're always pushing boundaries and exploring new technologies to stay ahead of the curve and deliver
+                We&apos;re always pushing boundaries and exploring new technologies to stay ahead of the curve and deliver
                 cutting-edge solutions that shape the future.
               </Text>
             </CardContent>
@@ -157,8 +157,8 @@ export function About() {
               Join Our Amazing Team
             </Heading>
             <Text className="text-white/90 mb-6 max-w-2xl mx-auto">
-              We're always looking for talented individuals who share our passion for innovation and excellence. If
-              you're interested in being part of our journey and making a real impact, we'd love to hear from you.
+              We&apos;re always looking for talented individuals who share our passion for innovation and excellence. If
+              you&apos;re interested in being part of our journey and making a real impact, we&apos;d love to hear from you.
             </Text>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Button size="lg" variant="secondary" className="bg-white text-slate-700 hover:bg-gray-100">
