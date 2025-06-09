@@ -1,6 +1,6 @@
-import { TeamMemberDetail } from "../../../components/pages/team-member-detail"
+import { TeamMemberDetail } from "@/components/pages/team-member-detail"
 
-interface PageProps {
+type PageProps = {
   params: { id: string }
 }
 
