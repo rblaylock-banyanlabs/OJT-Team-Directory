@@ -1,6 +1,6 @@
 import { TeamMemberDetail } from "@/components/pages/team-member-detail"
 
-export default async function MemberDetailPage({
+export default function MemberDetailPage({
   params,
 }: {
   params: { id: string };
